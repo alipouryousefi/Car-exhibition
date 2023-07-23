@@ -5,3 +5,5 @@ export { default as Navbar } from "./Navbar";
 export { default as CustomFilter } from "./CustomFilter";
 export { default as SearchBar } from "./SearchBar";
 export { default as SearchManuFacturer } from "./SearchManuFacturer";
+export { default as CarCard } from "./CarCard";
+export { default as CarDetails } from "./CarDetails";
